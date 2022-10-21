@@ -1,0 +1,38 @@
+body{
+    background-color: blueviolet;
+}
+
+p{
+    color: lawngreen;
+    /* font-family: 'Fasthand'; */
+    font-family:'Roboto';
+}
+
+h1,h2,h3{
+    background-color: black;
+    color: white;
+}
+
+.para1{
+    color: white;
+    font: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#para2{
+    background-color: white;
+    color: black;
+}
+
+p.text{
+    color: green;
+}
+
+/*    */
+
+p span{
+    background-color: blue; 
+    color:darkgreen; 
+    font-size:25px;
+}
+
